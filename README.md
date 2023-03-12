@@ -1,6 +1,8 @@
 # archive
 
-Past work I learned from
+Past work and learning
+
+## Table of Contents
 
 - [biotech](https://github.com/evanbirt/archive/tree/main/biotech) prolog practice
 - [es](https://github.com/evanbirt/archive/tree/main/es) expert system
